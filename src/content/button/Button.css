@@ -1,0 +1,23 @@
+
+		.button{
+			float: left;
+			width: 25%;
+			background: #0E6655;
+			color:#fff;
+			padding: 20px;
+			font-size: 25px;
+            display: inline-block;
+            text-align: center;
+            vertical-align: middle;
+			border: 2px solid #0B5345;
+            transition: all 0.2s ease-in-out;
+		
+            
+            		}
+        .button:hover {
+            background: #5DADE2;
+            ;
+}
+#btnc{
+	color: #D95D4E;
+}
