@@ -1,4 +1,4 @@
-# Calculator
+# Calculator using React.js
 How to run :-
 Commands: 
   npm install 
