@@ -10,4 +10,3 @@ If it doesn't work use these commands
   npm install
   npm start
  
- Note: Error handling is yet to be done.
